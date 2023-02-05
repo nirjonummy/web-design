@@ -1,0 +1,17 @@
+*{
+
+	margin: 0;
+}
+
+.nir{
+	background: #81ecec;
+	width: 55%;
+	margin: 100px auto;
+	box-sizing: border-box;
+	padding: 40px;
+}
+.ummy{
+   background: #a29bfe;
+   }
+
+.nir h1{ margin-bottom:10px;}
